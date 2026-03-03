@@ -14,6 +14,11 @@ This portfolio focuses on building **end-to-end AI systems** that combine machin
 
 A Retrieval-Augmented Generation system that allows large language models to answer questions using external knowledge sources.
 
+### System Architecture
+
+<img width="1362" height="2100" alt="mermaid-diagram-2026-03-03-184800" src="https://github.com/user-attachments/assets/a3f77388-4748-40af-b724-963e96d53bb4" />
+
+
 ### Key Components
 
 • document ingestion and preprocessing
@@ -34,6 +39,11 @@ https://github.com/prashantsingh5/rag-llm-chatbot
 ## Multi-Agent AI Assistant
 
 An AI assistant designed using a **multi-agent architecture**, where specialized agents collaborate to complete complex tasks.
+
+### System Architecture
+
+<img width="3439" height="2818" alt="w2" src="https://github.com/user-attachments/assets/58421e86-e1b1-442c-b564-76901ce2ba80" />
+
 
 ### Agents
 
@@ -56,6 +66,11 @@ https://github.com/prashantsingh5/multi-agent-ai-assistant
 ## AI Object Removal (Image Inpainting)
 
 A computer vision system that removes unwanted objects from images using **deep learning-based inpainting techniques**.
+
+### System Architecture
+
+<img width="1472" height="1844" alt="architecture" src="https://github.com/user-attachments/assets/35529878-47ad-4022-934d-ec05cee118e2" />
+
 
 ### Pipeline
 
