@@ -63,14 +63,14 @@ A computer vision system that removes unwanted objects from images using **deep 
 • mask generation
 • deep learning image reconstruction
 
-### Example Output
-
-<img width="2048" height="1024" alt="interior_before_after_labeled" src="https://github.com/user-attachments/assets/b30c7f4e-328f-4899-b756-36fef9c683f3" />
-
-
 ### Tech Stack
 
 Python • OpenCV • Deep Learning
+
+### Example Output
+
+<img width="1280" height="720" alt="object_removal_thumbnail" src="https://github.com/user-attachments/assets/f5e57cdb-ed22-4496-8e5b-520ebb00f40e" />
+
 
 ### Repository
 
@@ -105,6 +105,11 @@ A generative AI system that converts **text prompts into images** using diffusio
 ### Tech Stack
 
 Python • Stable Diffusion • Gradio
+
+### Example Output
+
+<img width="1280" height="720" alt="linkedin_thumbnail_v2" src="https://github.com/user-attachments/assets/6aa43bbd-b698-4348-8225-7b17c8185a63" />
+
 
 ### Repository
 
