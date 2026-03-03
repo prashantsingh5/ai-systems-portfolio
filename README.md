@@ -35,9 +35,13 @@ An AI assistant designed using a **multi-agent architecture**, where specialized
 Agents
 
 • RAG agent for knowledge retrieval
+
 • code agent for programming assistance
+
 • task manager agent for workflow coordination
+
 • data analysis agent for structured insights
+
 • web search agent for external information
 
 Tech Stack
