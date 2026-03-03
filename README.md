@@ -92,6 +92,11 @@ Implemented a **Pix2Pix GAN model** to convert sketches into realistic images.
 
 PyTorch • GANs • Computer Vision
 
+### Example Output
+
+<img width="1280" height="720" alt="sketch_to_image_thumbnail_v2" src="https://github.com/user-attachments/assets/50f2ed4b-418c-450b-9c5e-c2889ba0c1bf" />
+
+
 ### Repository
 
 https://github.com/prashantsingh5/sketch-to-image
