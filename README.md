@@ -14,10 +14,10 @@ A Retrieval-Augmented Generation system that enables large language models to an
 
 Key Components
 
-• document ingestion and preprocessing
-• embedding generation
-• vector database retrieval
-• context-grounded response generation
+  • document ingestion and preprocessing
+  • embedding generation
+  • vector database retrieval
+  • context-grounded response generation
 
 Tech Stack
 
@@ -34,15 +34,15 @@ An AI assistant designed using a **multi-agent architecture**, where specialized
 
 Agents
 
-• RAG agent for knowledge retrieval
-
-• code agent for programming assistance
-
-• task manager agent for workflow coordination
-
-• data analysis agent for structured insights
-
-• web search agent for external information
+  • RAG agent for knowledge retrieval
+  
+  • code agent for programming assistance
+  
+  • task manager agent for workflow coordination
+  
+  • data analysis agent for structured insights
+  
+  • web search agent for external information
 
 Tech Stack
 
