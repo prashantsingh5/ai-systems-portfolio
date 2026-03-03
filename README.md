@@ -1,29 +1,32 @@
 # AI Systems Portfolio
 
-A collection of AI systems and machine learning projects focused on **Large Language Models, Generative AI, and Computer Vision**.
+A collection of projects exploring **Large Language Models, Generative AI, and Computer Vision systems**.
 
-These projects explore how modern AI techniques can be used to build **intelligent, scalable applications and real-world solutions**.
+This portfolio focuses on building **end-to-end AI systems** that combine machine learning models with scalable application architectures.
 
 ---
 
 # Featured AI Systems
 
-## RAG-based LLM Chatbot
+---
 
-A Retrieval-Augmented Generation system that enables large language models to answer questions using external knowledge sources.
+## RAG-Based LLM Chatbot
 
-Key Components
+A Retrieval-Augmented Generation system that allows large language models to answer questions using external knowledge sources.
 
-  • document ingestion and preprocessing
-  • embedding generation
-  • vector database retrieval
-  • context-grounded response generation
+### Key Components
 
-Tech Stack
+• document ingestion and preprocessing
+• embedding generation for semantic search
+• vector database retrieval
+• context-grounded response generation
+
+### Tech Stack
 
 Python • FastAPI • LangChain • Vector Databases • LLM APIs
 
-Repository
+### Repository
+
 https://github.com/prashantsingh5/rag-llm-chatbot
 
 ---
@@ -32,119 +35,123 @@ https://github.com/prashantsingh5/rag-llm-chatbot
 
 An AI assistant designed using a **multi-agent architecture**, where specialized agents collaborate to complete complex tasks.
 
-Agents
+### Agents
 
-  • RAG agent for knowledge retrieval
-  
-  • code agent for programming assistance
-  
-  • task manager agent for workflow coordination
-  
-  • data analysis agent for structured insights
-  
-  • web search agent for external information
+• RAG agent for knowledge retrieval
+• code agent for programming assistance
+• task manager agent for workflow coordination
+• data analysis agent for structured insights
+• web search agent for external information
 
-Tech Stack
+### Tech Stack
 
 Python • FastAPI • LangChain • LLMs • Vector Databases
 
-Repository
+### Repository
+
 https://github.com/prashantsingh5/multi-agent-ai-assistant
 
 ---
 
 ## AI Object Removal (Image Inpainting)
 
-Computer vision system that removes unwanted objects from images using deep learning-based inpainting techniques.
+A computer vision system that removes unwanted objects from images using **deep learning-based inpainting techniques**.
 
-Pipeline
+### Pipeline
 
 • image preprocessing
 • mask generation
-• image reconstruction
+• deep learning image reconstruction
 
-Example Output
+### Example Output
 
-<img width="2048" height="1024" alt="interior_before_after_labeled" src="https://github.com/user-attachments/assets/f6c47803-80ca-45fc-a079-090dfcc91a7d" />
+<img width="2048" height="1024" alt="interior_before_after_labeled" src="https://github.com/user-attachments/assets/b30c7f4e-328f-4899-b756-36fef9c683f3" />
 
-Tech Stack
+
+### Tech Stack
 
 Python • OpenCV • Deep Learning
 
-Repository
+### Repository
+
 https://github.com/prashantsingh5/object-removal-using-inpainting
 
 ---
 
 ## Sketch-to-Image Generation
 
-Implemented a Pix2Pix GAN model to convert sketches into realistic images.
+Implemented a **Pix2Pix GAN model** to convert sketches into realistic images.
 
-Pipeline
+### Pipeline
 
-• paired dataset preparation
+• paired sketch-image dataset preparation
 • conditional GAN training
-• image synthesis
+• image synthesis from unseen sketches
 
-Tech Stack
+### Tech Stack
 
 PyTorch • GANs • Computer Vision
 
-Repository
+### Repository
+
 https://github.com/prashantsingh5/sketch-to-image
 
 ---
 
 ## Text-to-Image Generation
 
-A generative AI system that converts text prompts into images using diffusion models.
+A generative AI system that converts **text prompts into images** using diffusion models.
 
-Tech Stack
+### Tech Stack
 
 Python • Stable Diffusion • Gradio
 
-Repository
+### Repository
+
 https://github.com/prashantsingh5/text-to-image-generator
 
 ---
 
 ## Anime Recommendation System
 
-A recommendation engine that suggests anime based on user preferences using content-based filtering.
+A recommendation engine that suggests anime based on user preferences using **content-based filtering and API integration**.
 
-Tech Stack
+### Tech Stack
 
 Python • APIs • Recommender Systems
 
-Repository
+### Repository
+
 https://github.com/prashantsingh5/anime-recommendation-agent
 
 ---
 
 # Tech Stack Overview
 
-Languages
+### Languages
 
 Python • SQL
 
-Machine Learning
+### Machine Learning
 
 Machine Learning • Deep Learning • NLP • Computer Vision
 
-Generative AI
+### Generative AI
 
 LLMs • RAG • Diffusion Models • GANs • AI Agents
 
-Frameworks
+### Frameworks
 
 FastAPI • LangChain • PyTorch • Scikit-learn
 
-Infrastructure
+### Infrastructure
 
 Vector Databases • Docker • SQL
 
 ---
 
-# About
+# About This Portfolio
 
-This portfolio showcases experiments and implementations across **modern AI system design**, focusing on combining machine learning models with scalable application architectures.
+This repository showcases projects focused on **modern AI system design**, combining machine learning models with scalable software architectures.
+
+The goal is to explore how **AI research techniques can be transformed into practical applications**.
