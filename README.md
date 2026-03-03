@@ -59,6 +59,10 @@ Pipeline
 • mask generation
 • image reconstruction
 
+Example Output
+
+<img width="2048" height="1024" alt="interior_before_after_labeled" src="https://github.com/user-attachments/assets/f6c47803-80ca-45fc-a079-090dfcc91a7d" />
+
 Tech Stack
 
 Python • OpenCV • Deep Learning
